@@ -1,0 +1,27 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+
+# Ignorar caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar dependencias instaladas
+env/
+*.egg-info/
+dist/
+build/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
