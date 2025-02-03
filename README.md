@@ -14,5 +14,5 @@ venv\Scripts\activate
 En macOS/Linux:python3 -m venv venv source venv/bin/activate
 3. Instalar dependenciaspip install -r requirements.txt
 4.  Ejecutar el script principal python interfaz.py
-5.  Documentación : El proyecto incluye un documento PDF con información adicional. Puedes encontrarlo en la carpeta docs/ bajo el nombre:
-📄 docs/documentacion.pdf
+5.  Documentación : El proyecto incluye un documento PDF con información adicional. Puedes encontrarlo bajo el nombre:
+documentacion.pdf
